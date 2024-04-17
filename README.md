@@ -12,7 +12,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 QUEEN-SASI-MD whatsapp bot is,
-1
+
       QUEEN-SASI බොට් යනු ඔබට පහසුවෙන් භාවිතා කල හැකි බොට් වරයෙකි.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

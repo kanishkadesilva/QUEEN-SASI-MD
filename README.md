@@ -1,19 +1,19 @@
 <p align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=50&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=475&height=80&lines=QUEEN+THARU-MD" alt="Typing SVG" /></a>	
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=50&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=475&height=80&lines=QUEEN+SASI-MD" alt="Typing SVG" /></a>	
 </p> <p align="center">  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=475&height=80&lines=Multi+Device+Whatsapp+Bot;Developed+by+Kanishka_x" alt="Typing SVG" /></a>
 </p>
  <p align="center">  
   <a href="">
-    <img alt="QUEEN THARU-MD" width="500" height="500" src="https://telegra.ph/file/dbd86d3270afbd3982bab.jpg">
+    <img alt="QUEEN-SASI-MD" width="500" height="500" src="https://telegra.ph/file/dbd86d3270afbd3982bab.jpg">
   </a>
 </p>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-QUEEN-THARU-MD whatsapp bot is,
-
-      QUEEN-THARU-MD බොට් යනු ඔබට පහසුවෙන් භාවිතා කල හැකි බොට් වරයෙකි.
+QUEEN-SASI-MD whatsapp bot is,
+1
+      QUEEN-SASI බොට් යනු ඔබට පහසුවෙන් භාවිතා කල හැකි බොට් වරයෙකි.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

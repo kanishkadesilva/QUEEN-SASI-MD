@@ -44,7 +44,7 @@ QUEEN-SASI-MD whatsapp bot is,
 
 ### DEPLOY HEROKU
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kanishkadesilva/QUEEN-THARU-MD)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kanishkadesilva/QUEEN-SASI-MD)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

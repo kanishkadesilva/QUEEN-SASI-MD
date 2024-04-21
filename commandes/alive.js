@@ -60,7 +60,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *MASTE-MD IS ALIVE NOW..!*`
+ *QUEEN-SASI-MD IS ALIVE NOW..!*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -88,10 +88,10 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("*MASTER-MD is Alive Now ✅💀*") ; return};
+        if(!superUser) { repondre("*QUEEN-SASI-MD is Alive Now ✅👻*") ; return};
 
-      await   repondre("*MASTER-MD is Alive Now ✅💀*");
-         repondre(" *Type .menu to Commands list 👨‍💻💀*")
+      await   repondre("*QUEEN-SASI-MD is Alive Now ✅👻*");
+         repondre(" *Type .menu to Commands list 👨‍💻👻*")
      }
  } else {
 

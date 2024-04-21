@@ -1,9 +1,9 @@
 {
-  "name":"MASTER-MD",
-  "description":"An easy and simple WhatsApp bot developed by Sahan Maduwantha",
+  "name":"QUEEN-SASI-MD",
+  "description":"An easy and simple WhatsApp bot developed by Kanishka De Silva",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
-  "repository":"https://github.com/maduwa2006/MASTER-MD/",
+  "logo":"https://telegra.ph/file/3cd8de5d949bff74889e2.mp4",
+  "repository":"https://github.com/kanishkadesilva/QUEEN-SASI-MD/",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MASTER-MD",
+      "value":"QUEEN-SASI-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
+      "value":"https://telegra.ph/file/3cd8de5d949bff74889e2.mp4",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required": false,
-    "value": "MASTER"
+    "value": "CYBER GHOST👻"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required":false,
-    "value": "94720797915"
+    "value": "94722477361"
   },
     "WARN_COUNT":
   {

@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{MASTER-MD}...[][]");
+            console.log("\t [][]...{QUEEN-SASI-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Master-Md',
+                                        pack: 'QUEEN-SASI-MD',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Master-Md',
+                pack: 'QUEEN-SASI-MD',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -663,7 +663,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/ebdb1b88647fd8de9551f.jpg';
+        ppgroup = 'https://telegra.ph/file/3cd8de5d949bff74889e2.mp4';
     }
 
     try {
@@ -692,7 +692,7 @@ ${metadata.desc}
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = ` *සමුහයෙන් එක් අයෙකු පිට විය... 📌 [POWER BY MASTER MIND]*\n`;
+            let msg = ` *සමුහයෙන් එක් අයෙකු පිට විය... 📌 [POWERED BY CYBER GHOST]*\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -858,10 +858,10 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*MASTER-MD IS CONNECTED ✅*
+*QUEEN-SASI-MD IS CONNECTED ✅*
 
      
-║❒Creator: *SAHAN*
+║❒Creator: *KANISHKA*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Time : ${temps} 
@@ -871,10 +871,10 @@ ${metadata.desc}
 ║❒Ram : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║❒Platform : ${os.platform()}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-║❒ Supported : Hemal veenath
+║❒ Supported : Sahan maduwantha
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-     *MASTER-MD*`;
+     *QUEEN-SASI-MD*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }

@@ -73,15 +73,13 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "👨‍💻" }, as
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: " *✔️.Creater :Sahan Maduwantha* ", numero: "94720797915" },
-      { nom: " *✔️.Co Leader : Hemal Veenath* ", numero: "94719552053" },
-        { nom: " *✔️.Bug Test : Kanishka de Silva* ", numero: "94722477361" },
-        { nom: " *✔️.Test : Cyber Buddy* ", numero: "94728103228" },
-         { nom: " *✔️.Designer : Ishan* ", numero: "94774721911" },
+      { nom: " *✔️.Creater :Kanishka De Silva* ", numero: "94722477361" },
+      { nom: " *✔️.Co Leader : Sahan Maduwantha* ", numero: "94720797915" },
+        { nom: " *✔️.Bug Tester : Cyber Buddy* ", numero: "94728103228" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *WELCOME TO MASTER-MD WHATSAPP USER BOT.. MASTER-MD DEVELOPERS ARE* \n\n";
+    let message = "👋 *WELCOME TO QUEEN-SASI-MD WHATSAPP USER BOT.. QUEEN-SASI DEVELOPERS ARE* \n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -115,49 +113,35 @@ else {
 zokou({ nomCom: "support", categorie: "Help" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("*MASTER-MD Developer @Sahan's Number*")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94720797915?text=Hey_MASTER-MD_Owner_👨‍💻✅`},{quoted :ms})
-
-});
-zokou({ nomCom: "sahan", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
-  const { ms, repondre, auteurMessage, } = commandeOptions; 
- 
-  repondre("💀 *MASTER-MD BOT CREATED BY SAHAN 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALEWELA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ..👨‍💻* ")
-  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94720797915?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
-
-});
-zokou({ nomCom: "hemal", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
-  const { ms, repondre, auteurMessage, } = commandeOptions; 
- 
-  repondre("💀 *MASTER-MD Bot Co leader is Mr Hemal Veenath. 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Galewela💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 21 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ* ")
-  await zk.sendMessage(auteurMessage,{text : `*Co Leader Link https://wa.me/+94719552053?text=Hey_Co_Leader_👨‍💻✅*`},{quoted :ms})
+  repondre("*QUEEN-SASI-MD Developer @Kanishka's Number*")
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94722477361?text=Hey_QUEEN-SASI-MD_Owner_👨‍💻✅`},{quoted :ms})
 
 });
 zokou({ nomCom: "kanishka", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *MASTER-MD Bot Bug Tester is Kanishka De Silva 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Ambalangoda💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ* ")
-  await zk.sendMessage(auteurMessage,{text : `*Bug Tester Link https://wa.me/+94722477361?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+  repondre("💀 *QUEEN-SASI-MD BOT CREATED BY CYBER GHOST 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Ambalangoda💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃👻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94722477361?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+
+});
+zokou({ nomCom: "sahan", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, auteurMessage, } = commandeOptions; 
+ 
+  repondre("💀 *QUEEN-SASI-MD Bot Co leader is MASTER MIND. 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Galewela💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃👻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Co Leader Link https://wa.me/+94720797915?text=Hey_Co_Leader_👨‍💻✅*`},{quoted :ms})
 
 });
 zokou({ nomCom: "kavi", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *MASTER-MD Tester is Mr Cyber kavi 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Sri Lanka💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ* ")
-  await zk.sendMessage(auteurMessage,{text : `*Tester Link https://wa.me/+94743579892?text=Hey_Tester_👨‍💻✅*`},{quoted :ms})
-    
-});    
+  repondre("💀 *QUEEN-SASI-MD Bot Bug Tester is CYBER KAVI 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From GAMPAHA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃👻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Bug Tester Link https://wa.me/+94743579892?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+
+});
 zokou({ nomCom: "ping" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("*MASTER-MD PING* \n *72 MS*")
-  await zk.sendMessage(auteurMessage,{text : `*© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ*`},{quoted :ms})
-});
-zokou({ nomCom: "ishan", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
-  const { ms, repondre, auteurMessage, } = commandeOptions; 
- 
-  repondre("💀 *MASTER-MD Designer is Mr Ishan  💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Sri Lanka💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ* ")
-  await zk.sendMessage(auteurMessage,{text : `*Tester Link https://wa.me/+94774721911?text=Hey_Designer_👨‍💻✅*`},{quoted :ms})
-    
+  repondre("*QUEEN-SASI-MD PING* \n *72 MS*")
+  await zk.sendMessage(auteurMessage,{text : `*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃👻*`},{quoted :ms})
 })
 

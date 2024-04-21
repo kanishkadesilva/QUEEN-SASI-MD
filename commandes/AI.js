@@ -28,7 +28,7 @@ zokou({nomCom:"bot",reaction:"📡",categorie:"AI"},async(dest,zk,commandeOption
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("My Name is Master. I'm listening to you.")}
+    {return repondre("My Name is Cyber Ghost. I'm listening to you.")}
     //var quest = arg.join(' ');
   try{
     
@@ -75,7 +75,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
       const response = await axios.get(`https://vihangayt.me/tools/photoleap?q=${image}`);
       
       const data = response.data;
-      let caption = '*powered by MASTER-MD*';
+      let caption = '*Powered by QUEEN-SASI-MD*';
       
       if (data.status && data.owner && data.data) {
         // Utiliser les données retournées par le service
